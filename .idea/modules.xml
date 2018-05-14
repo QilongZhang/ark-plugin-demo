@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ark-plugin-demo.iml" filepath="$PROJECT_DIR$/ark-plugin-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hessian3-ark-plugin/hessian3-ark-plugin.iml" filepath="$PROJECT_DIR$/hessian3-ark-plugin/hessian3-ark-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hessian4-ark-plugin/hessian4-ark-plugin.iml" filepath="$PROJECT_DIR$/hessian4-ark-plugin/hessian4-ark-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pojo-ark-plugin/pojo-ark-plugin.iml" filepath="$PROJECT_DIR$/pojo-ark-plugin/pojo-ark-plugin.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+groupId: com.alipay.sofa
+artifactId: pojo-ark-plugin
+version: 1.0.0
+priority: 1000
+pluginName: pojo-ark-plugin
+activator: 
+import-packages: 
+import-classes: 
+import-resources: 
+export-packages: 
+export-classes: com.alipay.sofa.demo.pojo.SamplePoJo
+export-resources: 
+

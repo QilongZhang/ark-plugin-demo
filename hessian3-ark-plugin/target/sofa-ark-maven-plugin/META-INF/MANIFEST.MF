@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+groupId: com.alipay.sofa
+artifactId: hessian3-ark-plugin
+version: 1.0.0
+priority: 1000
+pluginName: hessian3-ark-plugin
+activator: 
+import-packages: 
+import-classes: com.alipay.sofa.demo.pojo.SamplePoJo
+import-resources: 
+export-packages: 
+export-classes: com.alipay.sofa.demo.hessian3.Hessian3Service
+export-resources: 
+
