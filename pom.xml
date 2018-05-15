@@ -9,9 +9,9 @@
     <packaging>pom</packaging>
     <version>1.0.0</version>
     <modules>
-        <module>hessian3-ark-plugin</module>
-        <module>hessian4-ark-plugin</module>
-        <module>pojo-ark-plugin</module>
+        <module>hessian3-module</module>
+        <module>hessian4-module</module>
+        <module>pojo-module</module>
     </modules>
 
 
